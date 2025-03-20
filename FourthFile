@@ -1,1 +1,8 @@
+public class MyName {
+    public static void main(String[] args) {
 
+        char h1 = '\u0927';
+        char h2 = '\u0928';
+        char h3 = '\u093E';
+        System.out.println("" +h1+h2+h3);
+    }}
